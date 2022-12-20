@@ -1,5 +1,97 @@
 @import "variables.scss", "reset.scss";
 
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $veryDarkBlue;
 
+    main {
+        width: 400px;
+        background-color: $darkBlue;
+        padding: 25px;
+        border-radius: 25px;
+
+        .rating-container {
+            .rating-icon {
+                width: 55px;
+                height: 55px;
+                background-color: rgba(124, 135, 152, 0.1);
+                border-radius: 50%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-bottom: 20px;
+
+                img {
+                    width: 20px;
+                }
+            }
+
+            h2 {
+                font-size: 30px;
+                margin-bottom: 15px;
+            }
+
+            p {
+                font-size: 15px;
+                line-height: 25px;
+                color: $lightGrey;
+                margin-bottom: 20px;
+            }
+
+            form {
+                display: flex;
+                justify-content: space-between;
+                margin-bottom: 25px;
+
+                label {
+                    cursor: pointer;
+                    color: $lightGrey;
+                    font-weight: 700;
+                    width: 55px;
+                    height: 55px;
+                    background-color: rgba(124, 135, 152, 0.1);
+                    border-radius: 50%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                label:hover {
+                    color: $white;
+                    background-color: $orange;
+                }
+
+                input[type="radio"] {
+                    display: none;
+                }
+            }
+
+            #submitBtn {
+                cursor: pointer;
+                width: 100%;
+                padding: 12px;
+                background-color: $orange;
+                border: none;
+                border-radius: 25px;
+                letter-spacing: 3px;
+                font-weight: 700;
+            }
+
+            #submitBtn:hover{
+                color: $orange;
+                background-color: $white;
+            }
+        }
+    }    
+}
+
+
+.hidden {
+    display: none;
+}
 
 @import "responsive.scss";

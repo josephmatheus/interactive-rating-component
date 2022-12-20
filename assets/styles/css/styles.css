@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Overpass", sans-serif;
+  color: rgb(255, 255, 255);
 }
 
 * a {
@@ -12,6 +13,86 @@
 
 * li {
   list-style: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(18, 20, 23);
+}
+body main {
+  width: 400px;
+  background-color: rgb(37, 45, 55);
+  padding: 25px;
+  border-radius: 25px;
+}
+body main .rating-container .rating-icon {
+  width: 55px;
+  height: 55px;
+  background-color: rgba(124, 135, 152, 0.1);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+body main .rating-container .rating-icon img {
+  width: 20px;
+}
+body main .rating-container h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+body main .rating-container p {
+  font-size: 15px;
+  line-height: 25px;
+  color: rgb(149, 158, 172);
+  margin-bottom: 20px;
+}
+body main .rating-container form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+body main .rating-container form label {
+  cursor: pointer;
+  color: rgb(149, 158, 172);
+  font-weight: 700;
+  width: 55px;
+  height: 55px;
+  background-color: rgba(124, 135, 152, 0.1);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body main .rating-container form label:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(251, 116, 19);
+}
+body main .rating-container form input[type=radio] {
+  display: none;
+}
+body main .rating-container #submitBtn {
+  cursor: pointer;
+  width: 100%;
+  padding: 12px;
+  background-color: rgb(251, 116, 19);
+  border: none;
+  border-radius: 25px;
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+body main .rating-container #submitBtn:hover {
+  color: rgb(251, 116, 19);
+  background-color: rgb(255, 255, 255);
+}
+
+.hidden {
+  display: none;
 }
 
 /*# sourceMappingURL=styles.css.map */
