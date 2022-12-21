@@ -1,6 +1,6 @@
 # Interactive Rating Component
 
-[Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-xc999hubLx) website challenge. You can check my result [here](https://josephmatheus.github.io/interactive-rating-component/).
+[Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) website challenge. You can check my result [here](https://josephmatheus.github.io/interactive-rating-component/).
 
 ---
 
