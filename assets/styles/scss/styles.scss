@@ -10,6 +10,7 @@ body {
 
     main {
         width: 400px;
+        max-width: 90%;
         background-color: $darkBlue;
         padding: 25px;
         border-radius: 25px;
@@ -27,6 +28,7 @@ body {
 
                 img {
                     width: 20px;
+                    max-width: 100%;
                 }
             }
 
@@ -86,9 +88,40 @@ body {
                 background-color: $white;
             }
         }
+
+        .thanks-container {
+            text-align: center;
+
+            .thanks-image {
+                margin-bottom: 20px;
+
+                img {
+                    max-width: 100%;
+                }
+            }
+
+            .res {
+                color: $orange;
+                background-color: rgba(124, 135, 152, 0.1);
+                padding: 5px 15px;
+                border-radius: 25px;
+                margin-bottom: 20px;
+                display: inline-block;
+            }
+
+            h2 {
+                margin-bottom: 20px;
+            }
+
+            p {
+                font-size: 15px;
+                line-height: 25px;
+                color: $lightGrey;
+                width: 96%;
+            }
+        }
     }    
 }
-
 
 .hidden {
     display: none;
