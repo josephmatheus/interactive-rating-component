@@ -15,7 +15,6 @@ submitBtn.addEventListener("click", () => {
 
 labels.forEach(e => {
   e.addEventListener("click", () => {
-    const rates = document.querySelectorAll("input[name='rating']");
     e.style.backgroundColor = "rgb(124, 135, 152)";
     e.style.color = "white";
   })
