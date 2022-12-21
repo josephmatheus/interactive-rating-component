@@ -3,16 +3,20 @@
 [Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-xc999hubLx) website challenge. You can check my result [here](https://josephmatheus.github.io/interactive-rating-component/).
 
 ---
+
 ## Screenshots 🖼
 
-<img src="assets/images/desktop-design.jpg" alt="desktop-design">
-<img src="assets/images/active-states.jpg" alt="desktop-design">
-<img src="assets/images/desktop-thank-you-state.jpg" alt="desktop-design">
+![desktop-design](assets/images/desktop-design.jpg)
+![active-states](assets/images/active-states.jpg)
+![desktop-design02](assets/images/desktop-thank-you-state.jpg)
 
 ---
 
 ## My process 📝
+
 ### Built with 🏗
+
+---
 
 - HTML5
 - CSS3
@@ -23,15 +27,12 @@
 
 ## Author 👷🏻‍♂️
 
-<div style="display: flex; flex-direction: column; align-items:flex-start; margin-top: 25px; margin-left: 70px;">
 <a href="https://www.github.com/josephmatheus">
-    <img src="https://avatars.githubusercontent.com/u/89085971?v=4" alt="Profile picture" width="100px" style="border-radius: 15%;">
+    <img src="https://avatars.githubusercontent.com/u/89085971?v=4" alt="Profile picture" width="100px">
 </a>
 
-- GitHub - [Joseph Matheus](https://github.com/josephmatheus)
-- LinkedIn - [Joseph Matheus](https://www.linkedin.com/in/josephmatheus/)
-- Frontend Mentor - [@josephmatheus](https://www.frontendmentor.io/profile/josephmatheus)
-
-</div>
+GitHub - [Joseph Matheus](https://github.com/josephmatheus) <br>
+LinkedIn - [Joseph Matheus](https://www.linkedin.com/in/josephmatheus/) <br>
+Frontend Mentor - [@josephmatheus](https://www.frontendmentor.io/profile/josephmatheus)
 
 ---
