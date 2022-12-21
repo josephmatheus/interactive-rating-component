@@ -5,9 +5,9 @@
 ---
 ## Screenshots 🖼
 
-<img src="assets/images/desktop-design.jpg" alt="desktop-design" style="height: 200px">
-<img src="assets/images/active-states.jpg" alt="desktop-design" style="height: 200px">
-<img src="assets/images/desktop-thank-you-state.jpg" alt="desktop-design" style="height: 200px">
+<img src="assets/images/desktop-design.jpg" alt="desktop-design">
+<img src="assets/images/active-states.jpg" alt="desktop-design">
+<img src="assets/images/desktop-thank-you-state.jpg" alt="desktop-design">
 
 ---
 
