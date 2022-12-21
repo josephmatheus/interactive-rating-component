@@ -23,8 +23,8 @@
 
 ## Author 👷🏻‍♂️
 
-<div style="display: flex; flex-direction: column; align-items:flex-start; margin-top: 25px;">
-<a href="https://www.github.com/josephmatheus" style="margin-left: 70px;">
+<div style="display: flex; flex-direction: column; align-items:flex-start; margin-top: 25px; margin-left: 70px;">
+<a href="https://www.github.com/josephmatheus">
     <img src="https://avatars.githubusercontent.com/u/89085971?v=4" alt="Profile picture" width="100px" style="border-radius: 15%;">
 </a>
 
